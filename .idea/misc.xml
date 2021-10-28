@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/exerciseskeleton/pom.xml" />
+        <option value="$PROJECT_DIR$/Exa1/pom.xml" />
+        <option value="$PROJECT_DIR$/Exa2/pom.xml" />
+        <option value="$PROJECT_DIR$/Exa3/pom.xml" />
+        <option value="$PROJECT_DIR$/Exa4/pom.xml" />
+        <option value="$PROJECT_DIR$/Exa5/pom.xml" />
+        <option value="$PROJECT_DIR$/Exa6/pom.xml" />
+        <option value="$PROJECT_DIR$/exerciseskeletonclient/pom.xml" />
+        <option value="$PROJECT_DIR$/Exb1/pom.xml" />
+        <option value="$PROJECT_DIR$/Exb2/pom.xml" />
+        <option value="$PROJECT_DIR$/Exc1Api/pom.xml" />
+        <option value="$PROJECT_DIR$/Exc1Client/pom.xml" />
+        <option value="$PROJECT_DIR$/Exc2api/pom.xml" />
+        <option value="$PROJECT_DIR$/Exc2client/pom.xml" />
+        <option value="$PROJECT_DIR$/Exc3api/pom.xml" />
+        <option value="$PROJECT_DIR$/Exc3client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

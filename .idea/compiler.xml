@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Exc3api" />
+        <module name="Exc1Api" />
+        <module name="Exc2api" />
+        <module name="Exa5" />
+        <module name="Exa4" />
+        <module name="Exa3" />
+        <module name="Exa2" />
+        <module name="Exa1" />
+        <module name="Exa6" />
+        <module name="Exc1Client" />
+        <module name="Exb2" />
+        <module name="Exb1" />
+        <module name="exerciseskeleton" />
+        <module name="Exc2client" />
+        <module name="Exc3client" />
+        <module name="exerciseskeletonclient" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Exa1" target="11" />
+      <module name="Exa2" target="11" />
+      <module name="Exa3" target="11" />
+      <module name="Exa4" target="11" />
+      <module name="Exa5" target="11" />
+      <module name="Exa6" target="11" />
+      <module name="Exb1" target="11" />
+      <module name="Exb2" target="11" />
+      <module name="Exc1Api" target="11" />
+      <module name="Exc1Client" target="11" />
+      <module name="Exc2api" target="11" />
+      <module name="Exc2client" target="11" />
+      <module name="Exc3api" target="11" />
+      <module name="Exc3client" target="11" />
+      <module name="exerciseskeleton" target="11" />
+      <module name="exerciseskeletonclient" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Exa1" options="-parameters" />
+      <module name="Exa2" options="-parameters" />
+      <module name="Exa3" options="-parameters" />
+      <module name="Exa4" options="-parameters" />
+      <module name="Exa5" options="-parameters" />
+      <module name="Exa6" options="-parameters" />
+      <module name="Exb1" options="-parameters" />
+      <module name="Exb2" options="-parameters" />
+      <module name="Exc1Api" options="-parameters" />
+      <module name="Exc1Client" options="-parameters" />
+      <module name="Exc2api" options="-parameters" />
+      <module name="Exc2client" options="-parameters" />
+      <module name="Exc3api" options="-parameters" />
+      <module name="Exc3client" options="-parameters" />
+      <module name="exerciseskeleton" options="-parameters" />
+      <module name="exerciseskeletonclient" options="-parameters" />
+    </option>
+  </component>
+</project>

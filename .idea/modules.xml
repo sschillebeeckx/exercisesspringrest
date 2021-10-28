@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exa1/Exa1.iml" filepath="$PROJECT_DIR$/Exa1/Exa1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exa2/Exa2.iml" filepath="$PROJECT_DIR$/Exa2/Exa2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exa3/Exa3.iml" filepath="$PROJECT_DIR$/Exa3/Exa3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exa4/Exa4.iml" filepath="$PROJECT_DIR$/Exa4/Exa4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exa5/Exa5.iml" filepath="$PROJECT_DIR$/Exa5/Exa5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exa6/Exa6.iml" filepath="$PROJECT_DIR$/Exa6/Exa6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exb1/Exb1.iml" filepath="$PROJECT_DIR$/Exb1/Exb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exb2/Exb2.iml" filepath="$PROJECT_DIR$/Exb2/Exb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exc1Api/Exc1Api.iml" filepath="$PROJECT_DIR$/Exc1Api/Exc1Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exc1Client/Exc1Client.iml" filepath="$PROJECT_DIR$/Exc1Client/Exc1Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exc2api/Exc2api.iml" filepath="$PROJECT_DIR$/Exc2api/Exc2api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exc2client/Exc2client.iml" filepath="$PROJECT_DIR$/Exc2client/Exc2client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exc3api/Exc3api.iml" filepath="$PROJECT_DIR$/Exc3api/Exc3api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exc3client/Exc3client.iml" filepath="$PROJECT_DIR$/Exc3client/Exc3client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciseskeleton/exerciseskeleton.iml" filepath="$PROJECT_DIR$/exerciseskeleton/exerciseskeleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciseskeletonclient/exerciseskeletonclient.iml" filepath="$PROJECT_DIR$/exerciseskeletonclient/exerciseskeletonclient.iml" />
+    </modules>
+  </component>
+</project>

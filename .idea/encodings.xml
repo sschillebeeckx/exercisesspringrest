@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Exa1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exa2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exa3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exa4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exa5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exa6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exb1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exb2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exc1Api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exc1Client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exc2api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exc2client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exc3api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Exc3client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exerciseskeleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exerciseskeletonclient/src/main/java" charset="UTF-8" />
+  </component>
+</project>
